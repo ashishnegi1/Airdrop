@@ -1,0 +1,19 @@
+{
+  "name": "backdrop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@solana-developers/helpers": "^2.3.0",
+    "@solana/spl-token": "^0.4.6",
+    "@solana/web3.js": "^1.93.0",
+    "express": "^4.19.2"
+  }
+}
